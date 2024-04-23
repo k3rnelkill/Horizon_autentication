@@ -9,7 +9,7 @@ import os
 
 mensagem = 'Ferramenta para armazenar senha de conexão!'
 pyautogui.alert(mensagem,
-      title='ClickTI Horizon Connect',
+      title='Horizon Connect',
       button='Iniciar coleta de senha?')
 
 pergunta = 'Deseja Prosseguir?'
